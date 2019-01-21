@@ -12,4 +12,22 @@ O conteúdo será atualizado semanalmente de acordo com o andamento do curso.
 
 --------------------------------
 
+Commitando códigos
+------------------
+
+Vamos padronizar da seguinte maneira:
+
+- Salvem seus arquivos no diretório correspondente, no formato **nome_arquivo_nome_do_usuario.py**
+- Exemplo: **teste_Fabio.py**
+
+--------------
+
+
+![Image](https://github.com/frclasso/turma1_Python_Modulo2_2019/blob/master/python.png)
+
+
+Contatos: frclasso@gmail.com
+
+https://www.linkedin.com/in/fabio-reis-classo-46881425/
+
 
