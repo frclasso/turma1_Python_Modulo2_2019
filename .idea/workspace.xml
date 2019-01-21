@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8939d61-e1ac-44da-91eb-a3f2b48fbb18" name="Default Changelist" comment="" />
+    <list default="true" id="f8939d61-e1ac-44da-91eb-a3f2b48fbb18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/turma1_Python2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/turma1_Python_Modulo2_2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +70,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/15_matriz.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
               <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="216">
+                <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -81,6 +99,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,6 +129,7 @@
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/13_if_else.py" />
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/14_matriz.py" />
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/15_matriz.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -116,26 +138,36 @@
     <option name="width" value="1280" />
     <option name="height" value="778" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="turma1_Python2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turma1_Python2" type="462c0819:PsiDirectoryNode" />
+              <item name="turma1_Python_Modulo2_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turma1_Python_Modulo2_2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="turma1_Python2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turma1_Python2" type="462c0819:PsiDirectoryNode" />
+              <item name="turma1_Python_Modulo2_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turma1_Python_Modulo2_2019" type="462c0819:PsiDirectoryNode" />
               <item name="Cap01_Elementos_sintaxe_especifica" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="turma1_Python2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turma1_Python2" type="462c0819:PsiDirectoryNode" />
+              <item name="turma1_Python_Modulo2_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turma1_Python_Modulo2_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cap01_Elementos_sintaxe_especifica" type="462c0819:PsiDirectoryNode" />
+              <item name="01_matrizes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="turma1_Python_Modulo2_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turma1_Python_Modulo2_2019" type="462c0819:PsiDirectoryNode" />
               <item name="Cap01_Elementos_sintaxe_especifica" type="462c0819:PsiDirectoryNode" />
               <item name="02_list_comprehensions" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -143,10 +175,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -168,7 +200,7 @@
   </component>
   <component name="RunManager" selected="Python.15_matriz">
     <configuration name="05_modificando" type="PythonConfigurationType" factoryName="Python">
-      <module name="turma1_Python2" />
+      <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -189,7 +221,7 @@
       <method v="2" />
     </configuration>
     <configuration name="11_openfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="turma1_Python2" />
+      <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -210,7 +242,7 @@
       <method v="2" />
     </configuration>
     <configuration name="12_comprehension_vs_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="turma1_Python2" />
+      <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -231,7 +263,7 @@
       <method v="2" />
     </configuration>
     <configuration name="13_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="turma1_Python2" />
+      <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -252,7 +284,7 @@
       <method v="2" />
     </configuration>
     <configuration name="14_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="turma1_Python2" />
+      <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -273,7 +305,7 @@
       <method v="2" />
     </configuration>
     <configuration name="15_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="turma1_Python2" />
+      <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -318,6 +350,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2621128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -496,6 +529,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="216">
+            <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
