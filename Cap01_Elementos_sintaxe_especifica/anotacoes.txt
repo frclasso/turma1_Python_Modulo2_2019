@@ -1,0 +1,16 @@
+Anotacoes de aula
+=================
+
+
+Aula 01 - Cap 01
+================
+-Matrizes
+-List Comprehensions
+
+Aula 02 - Cap 01
+================
+04 - Decorators
+
+Aula 03
+========
+

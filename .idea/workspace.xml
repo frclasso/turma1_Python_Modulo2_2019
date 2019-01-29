@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8939d61-e1ac-44da-91eb-a3f2b48fbb18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/01_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/02_valor_dobrado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/03_dict_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/04_dict_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/05_dict_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/06_dict_nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/07_dict_triple_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/08_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/09_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/01_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/02_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/03_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/04_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/05_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/06_smart_divide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/07_works_for_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/08_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/10_reusing_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/11_class_decorada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/12_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/explanation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/anotacoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instalando_git.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,76 +36,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/10_upper_lower_isdigit.py">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/03_decorator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/texto.txt">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/04_decorator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state>
+              <caret column="19" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/11_openfile.py">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/05_decorator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="216">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/12_comprehension_vs_lambda.py">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/06_smart_divide.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="54">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/13_if_else.py">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/07_works_for_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="198">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/14_matriz.py">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/08_multiple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="34" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/15_matriz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="360">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="474">
-                <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/anotacoes.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/10_reusing_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#25#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/11_class_decorada.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/12_cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -126,6 +167,29 @@
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/14_matriz.py" />
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/15_matriz.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/01_food.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/02_valor_dobrado.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/03_dict_comprehension.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/04_dict_comprehension.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/05_dict_cpmprehension.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/05_dict_comprehension.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/06_dict_triple_condition.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/06_dict_nested.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/08_count.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/09_zip.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/01_decorator.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/02_decorator.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/03_decorator.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/04_decorator.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/05_decorator.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/05_smart_divide.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/07_works_for_all.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/08_multiple.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/10_reusing_code.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/11_class_decorada.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/12_cache.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/anotacoes.txt" />
       </list>
     </option>
   </component>
@@ -142,7 +206,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,18 +222,13 @@
               <item name="turma1_Python_Modulo2_2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="turma1_Python_Modulo2_2019" type="462c0819:PsiDirectoryNode" />
               <item name="Cap01_Elementos_sintaxe_especifica" type="462c0819:PsiDirectoryNode" />
-              <item name="01_matrizes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="turma1_Python_Modulo2_2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turma1_Python_Modulo2_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap01_Elementos_sintaxe_especifica" type="462c0819:PsiDirectoryNode" />
-              <item name="02_list_comprehensions" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Decorators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,7 +236,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/01_matrizes" />
     </key>
   </component>
@@ -194,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15_matriz">
+  <component name="RunManager" selected="Python.12_cache">
     <configuration name="05_modificando" type="PythonConfigurationType" factoryName="Python">
       <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11_openfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05_smart_divide" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/11_openfile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/06_smart_divide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12_comprehension_vs_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="07_works_for_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,11 +307,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/12_comprehension_vs_lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/07_works_for_all.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="08_multiple" type="PythonConfigurationType" factoryName="Python">
       <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/13_if_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/08_multiple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_reusing_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,11 +349,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/14_matriz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/10_reusing_code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +362,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11_class_decorada" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turma1_Python_Modulo2_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,11 +370,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/15_matriz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/11_class_decorada.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_cache" type="PythonConfigurationType" factoryName="Python">
+      <module name="turma1_Python_Modulo2_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/12_cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,11 +406,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15_matriz" />
-        <item itemvalue="Python.14_matriz" />
-        <item itemvalue="Python.13_if_else" />
-        <item itemvalue="Python.12_comprehension_vs_lambda" />
-        <item itemvalue="Python.11_openfile" />
+        <item itemvalue="Python.11_class_decorada" />
+        <item itemvalue="Python.10_reusing_code" />
+        <item itemvalue="Python.07_works_for_all" />
+        <item itemvalue="Python.05_smart_divide" />
       </list>
     </recent_temporary>
   </component>
@@ -345,18 +427,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2621128" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988345" visible="true" weight="0.20492454" />
+      <window_info id="Structure" order="1" sideWeight="0.5011655" side_tool="true" weight="0.20538385" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="DB Browser" order="4" />
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29816514" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53975534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,13 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/01_list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -493,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/11_openfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/12_comprehension_vs_lambda.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -514,27 +581,205 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/14_matriz.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="450">
+            <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="87" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instalando_git.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="34" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="125">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/15_matriz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
+        <state relative-caret-position="72">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="474">
-            <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/14_matriz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/11_openfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/01_list_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="24" column="66" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/03_dict_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/02_valor_dobrado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/04_dict_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="27" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/01_food.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/05_dict_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/07_dict_triple_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/06_dict_nested.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/08_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/03_Dict_comprehension/09_zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/explanation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/01_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/02_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/03_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/04_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/05_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/06_smart_divide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/07_works_for_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/10_reusing_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#25#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/11_class_decorada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/12_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/08_multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/anotacoes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
