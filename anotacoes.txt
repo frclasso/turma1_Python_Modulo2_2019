@@ -18,4 +18,6 @@ Basico de classes
 
 Aula 04
 =======
+Classses - Herança
+Metodos Mágicos
 
