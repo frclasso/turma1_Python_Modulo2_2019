@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8939d61-e1ac-44da-91eb-a3f2b48fbb18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/05_lambdas/lambda1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/05_lambdas/mapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/05_lambdas/sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/gerador_infinito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/infinito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/iter_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/iterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/my_itertools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/nosso_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/permutations_combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/pow_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/simular_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/test.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap02_Classes/01_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap02_Classes/02_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap02_Classes/03_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cap02_Classes/project1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/05_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/05_decorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/12_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/04_Decorators/12_cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/anotacoes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/anotacoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/snipets.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/anotacoes.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -41,11 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/simular_range.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/snipets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="33" selection-end-column="10" />
+            <state relative-caret-position="864">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -137,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/10_performance.py" />
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/10_upper_lower_isdigit.py" />
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/texto.txt" />
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/11_openfile.py" />
@@ -188,6 +167,7 @@
         <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/iter_log.py" />
         <option value="$PROJECT_DIR$/anotacoes.txt" />
         <option value="$PROJECT_DIR$/Cap02_Classes/project1.py" />
+        <option value="$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/snipets.py" />
       </list>
     </option>
   </component>
@@ -534,13 +514,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/09_performance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/02_list_comprehensions/10_upper_lower_isdigit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -888,6 +861,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap01_Elementos_sintaxe_especifica/06_iterators/snipets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
         </state>
       </provider>
     </entry>
