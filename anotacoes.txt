@@ -13,4 +13,9 @@ Aula 02 - Cap 01
 
 Aula 03
 ========
+Iterators, generators, itertools
+Basico de classes
+
+Aula 04
+=======
 
