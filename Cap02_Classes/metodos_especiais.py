@@ -39,9 +39,9 @@ class Employee:
 
 emp_1 = Employee('Fabio', 'Classo', 30000)
 dev_1 = Employee('Peter', 'Parker', 2000)
-dev_2 = Employee('Mary', 'Parker', 2000)
+dev_2 = Employee('Mary', 'Jane', 2000)
 
-# print(emp_1)
+#print(emp_1)
 #
 # print(repr(emp_1))
 # print(str(emp_1))
@@ -59,4 +59,4 @@ dev_2 = Employee('Mary', 'Parker', 2000)
 # print(len('teste'))
 # print('teste'.__len__())
 
-print(len(dev_2))
+#print(len(dev_2))

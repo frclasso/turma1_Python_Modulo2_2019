@@ -21,3 +21,7 @@ Aula 04
 Classses - Herança
 Metodos Mágicos
 
+Aula 05
+=======
+Finalizamos Classes - Polimorfismo, Derivadas, Encapsulamento, @property
+ - re

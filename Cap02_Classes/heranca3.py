@@ -33,3 +33,10 @@ print(obj.parentAttr)
 obj.setAttr(2000)
 obj.getAttr()
 
+# isinstance, issubclass
+
+print(isinstance(obj, Child))
+print(isinstance(obj, Parent))
+
+print(issubclass(Child, Parent))
+print(issubclass(Parent, Child))

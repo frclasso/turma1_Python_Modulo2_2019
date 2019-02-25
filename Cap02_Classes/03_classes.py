@@ -23,8 +23,6 @@ class Employee:
         self.pay = int(self.pay * self.raise_amount) # pode ser Employee.raise...
 
 
-
-
 # instancia de classe/objeto
 emp_1 = Employee('Fabio', 'Classo', 120000)
 emp_2 = Employee('User', 'Test', 50000)
