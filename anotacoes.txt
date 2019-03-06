@@ -24,4 +24,10 @@ Metodos Mágicos
 Aula 05
 =======
 Finalizamos Classes - Polimorfismo, Derivadas, Encapsulamento, @property
+
+Aula 06
+=======
  - re
+ - Cap 04 - Banco de dados  parte 01
+
+
