@@ -2,23 +2,21 @@
 
 import sqlite3
 
-conn = sqlite3.connect('clientes_DataBases.db')
+conn = sqlite3.connect('pessoas.db')
 
 cursor = conn.cursor()
 
 cursor.execute("""
-    create table clientes(
-    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    CREATE TABLE pessoas(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     nome TEXT NOT NULL,
-    idade INTEGER,
-    cpf VARCHAR(11) NOT NULL,
-    email TEXT NOT NULL,
-    fone TEXT,
-    cidade TEXT,
-    uf VARCHAR(2) NOT NULL,
-    criado_em DATE NOT NULL);
+    sobrenome TEXT NOT NULL,
+    email TEXT NOT NULL UNIQUE,
+    cidade_id INTEGER,
+    criado_em DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY(cidade_id) REFERENCES cidade(id));
 """)
 
-print('Tabela clientes criada com sucesso')
+print('Tabela  pessoas criadas com sucesso')
 
 conn.close()

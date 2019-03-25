@@ -45,7 +45,17 @@ def gen_city():
         [u'Brasilia', 'DF'],
         [u'Campinhas', 'SP'],
         [u'Fotaleza', 'CE'],
-        [u'São Luís', 'MA']
+        [u'São Luís', 'MA'],
+        [u'Belo Horizonte', 'MG'],
+        [u'São Gonçalo', 'RJ'],
+        [u'Manaus', 'AM'],
+        [u'Maceió', 'AL'],
+        [u'Curitiba', 'PR'],
+        [u'Duque de Caxias', 'RJ'],
+        [u'Recife', 'PE'],
+        [u'Natal', 'RN'],
+        [u'Porto Alegre', 'RS'],
+        [u'Campo Grande', 'MS']
     ]
     return random.choice(list_city)
 

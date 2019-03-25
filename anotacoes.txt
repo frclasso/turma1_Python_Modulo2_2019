@@ -14,12 +14,12 @@ Aula 02 - Cap 01
 Aula 03
 ========
 Iterators, generators, itertools
-Basico de classes
+Básico de classes
 
 Aula 04
 =======
-Classses - Herança
-Metodos Mágicos
+Classes - Herança
+Métodos Mágicos
 
 Aula 05
 =======
@@ -32,4 +32,13 @@ Aula 06
 
 Aula 07
 =======
+Cap - 04 Banco de dados - parte 02  e 03
+parei no manager_db.py página 20
 
+Aula 08
+=======
+manager.db
+
+Aula 09
+=======
+Tkinter - parte 01 - pagina 182 - Classes
