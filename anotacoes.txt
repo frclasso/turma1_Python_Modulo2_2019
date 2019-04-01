@@ -42,3 +42,8 @@ manager.db
 Aula 09
 =======
 Tkinter - parte 01 - pagina 182 - Classes
+
+Aula 10
+=======
+ttk.Tkinter()
+
