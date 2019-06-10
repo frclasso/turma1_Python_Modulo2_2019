@@ -12,15 +12,15 @@ O conteúdo será atualizado semanalmente de acordo com o andamento do curso.
 
 --------------------------------
 
-Commitando códigos
-------------------
 
-Vamos padronizar da seguinte maneira:
+Alunos
+------
+Marcelo Gevaerd
+Marcelo Masera
+Romario Vargas
+Julio
+Nicolas
 
-- Salvem seus arquivos no diretório correspondente, no formato **nome_arquivo_nome_do_usuario.py**
-- Exemplo: **teste_Fabio.py**
-
---------------
 
 
 Sigam-nos nas redes sociais e concorram a descontos nos nossos cursos presenciais
